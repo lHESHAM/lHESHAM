@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500">
 
   # 👨‍💻 Hesham Najem Al-Khamaiseh
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hesham-najem)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heshamnajem4@gmail.com)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HeshamNajem4)
 </div>
 
 ## 🚀 About Me
-Full-Stack Developer from Jordan, crafting clean code and elegant solutions. I specialize in Laravel and React, turning coffee into code since [year]. 
+Full-Stack Developer from Jordan, crafting clean code and elegant solutions. I specialize in Laravel and React, turning coffee into code since 2021. 
 
 > "Code like it's 1999, Deploy like it's 2099" 🎮
 
@@ -36,13 +36,13 @@ Full-Stack Developer from Jordan, crafting clean code and elegant solutions. I s
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=heshamnajem&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshamnajem&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/CcwLAV11cALh3TeQqh/giphy.gif" width="400">
 </div>
 
 ---
