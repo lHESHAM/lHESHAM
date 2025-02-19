@@ -34,16 +34,7 @@ Full-Stack Developer from Jordan, crafting clean code and elegant solutions. I s
 - ⚡ Performance optimization expert
 - 🎨 UI/UX enthusiast
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heshamnajem&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshamnajem&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/CcwLAV11cALh3TeQqh/giphy.gif" width="400">
-</div>
+  
 
 ---
 <div align="center">
