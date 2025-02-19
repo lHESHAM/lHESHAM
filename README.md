@@ -2,7 +2,6 @@
   <!-- Image Request -->
 </div>
 
-I can generate a GIF for you. Would you like me to generate a GIF of a person at a computer, with code on the screen, and perhaps some subtle animations to indicate typing or code compiling? The background could have a dark, modern aesthetic with some tech-inspired elements.
 
 <div align="center">
   <h1 style="margin-bottom: 0.2em; font-size: 3em; font-family: 'Courier New', monospace;">👨‍💻 Hesham Najem Al-Khamaiseh</h1>
