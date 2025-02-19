@@ -1,108 +1,51 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="500">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="700">
-</p>
+  # 👨‍💻 Hesham Najem Al-Khamaiseh
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heshamnajem4@gmail.com)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+</div>
 
-<h1 align="center">
-  🚀 WELCOME TO <span style="color:#ff6600;">HESHAM NAJEM AL-KHAMAISEH</span>'s CYBERSPACE 💾
-</h1>
+## 🚀 About Me
+Full-Stack Developer from Jordan, crafting clean code and elegant solutions. I specialize in Laravel and React, turning coffee into code since [year]. 
 
-<h3 align="center">
-  👾 Full-Stack Web Developer | Laravel & React | Retro Code Alchemist 👾
-</h3>
+> "Code like it's 1999, Deploy like it's 2099" 🎮
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
-</p>
+## 🛠️ Tech Stack
+<div align="center">
 
----
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## 🕹️ ABOUT ME
+### Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-▪️ **Name:** Hesham Najem Al-Khamaiseh  
-▪️ **Role:** Full-Stack Developer (Laravel & React)  
-▪️ **Location:** Tafilah, Jordan  
-▪️ **Mission:** Writing **clean, efficient, and futuristic** web applications **!  
-▪️ **Vibe:** Coding with a **synthwave soundtrack & neon keyboard**!  
-▪️ **Superpower:** Can debug faster than a **speedrun world record!**  
+</div>
 
-💬 **Motto:** _"Code like it's 1999, Deploy like it's 2099."_  
+## 🎯 Highlights
+- 🚀 Full-Stack Developer specializing in Laravel & React
+- 💼 Completed 5+ custom web applications
+- ⚡ Performance optimization expert
+- 🎨 UI/UX enthusiast
 
----
-
-## 🔧 TECH STACK
-
-```bash
-👾 FRONTEND:
-🚀 React.js | 🔥 JavaScript | 🌟 HTML | 🎨 CSS | 🌊 Tailwind CSS
-
-💿 BACKEND:
-🦾 Laravel | 🐘 PHP | 🐴 MySQL | 🔗 REST APIs
-
-⚙️ TOOLS:
-🧐 Git & GitHub | 🎯 Agile Dev | 💻 Terminal Magic
-```
-
-<p align="center">
-  <img src="https://media1.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="600">
-</p>
-
----
-
-## 🎮 EXPERIENCE & PROJECTS
-
-### 🕹️ **React Developer**
-- 🚀 **Developed** futuristic, responsive UIs with React.js & Tailwind CSS  
-- ⚡ **Optimized** frontend performance for **warp-speed interactions**  
-- 🔥 **Integrated** APIs seamlessly into a smooth, **fluid UX**  
-
-### 💿 **Freelance Web Developer (Laravel & React)**
-- 🏆 Completed **5+ custom web applications** for clients  
-- 🏠 Built **E-Commerce platforms, admin dashboards, and interactive CMS**  
-- ⚙️ Delivered **clean, scalable** code with **high-performance backends**  
-
----
-
-## 🔥 GITHUB STATS & RETRO VIBES
-
-<p align="center">
-  <a href="https://github.com/YourGitHubUsername">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="🔥 GitHub Streak Stats">
-  </a>
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" alt="GitHub Streak"/>
   <br/>
-  <a href="https://github.com/YourGitHubUsername">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" alt="💾 Top Languages">
-  </a>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</div>
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="🐍 Retro Snake Game" width="800">
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="400">
+</div>
 
 ---
-
-## 🎵 EASTER EGGS & FUN FACTS
-
-🕹️ **80s Gamer Mode:** I type **faster than Sonic runs** when debugging!  
-💾 **Old School Meets New School:** My IDE is decked out in **synthwave neon themes**!  
-💀 **Error 404:** My bugs **self-destruct before I even push to GitHub.**  
-
-<p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="500">
-</p>
-
----
-
-## 🔥 CONTACT ME & JOIN THE CYBERSPACE  
-
-🔹 **LinkedIn:** [Connect with Me](https://linkedin.com/in/yourprofile)  
-🔹 **Twitter:** [Follow Me](https://twitter.com/yourhandle)  
-🔹 **Email:** [heshamnajem4@gmail.com](mailto:heshamnajem4@gmail.com)  
-
-🚀 **Drop me a message if you wanna collab on something crazy cool!** 🚀
-
-<p align="center">
-  <img src="https://media1.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="600">
-</p>
-
----
+<div align="center">
+  <i>Let's build something amazing together! 🚀</i>
+</div>
