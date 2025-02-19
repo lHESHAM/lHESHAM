@@ -9,7 +9,7 @@
 </div>
 
 ## 🚀 About Me
-Full-Stack Developer from Jordan, crafting clean code and elegant solutions. I specialize in Laravel and React, turning coffee into code since 2021. 
+Full-Stack Developer from Jordan, crafting clean code and elegant solutions. I specialize in Laravel and React, turning coffee into code . 
 
 > "Code like it's 1999, Deploy like it's 2099" 🎮
 
