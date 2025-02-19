@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I am a  Full-Stack Developer from Jordan, dedicated to crafting seamless web experiences using Laravel and React. I turn coffee into elegant, high-performance code—bringing ideas to life one line at a time.
+I am a  Full-Stack Developer from Jordan, dedicated to crafting seamless web experiences using Laravel and React. I turn coffee into code.
 
 > "Code like it's 1999, Deploy like it's 2099"
 
