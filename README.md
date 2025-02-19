@@ -34,7 +34,6 @@ I am a passionate Full-Stack Developer from Jordan, dedicated to crafting seamle
 
 -   As a Full-Stack Developer specializing in Laravel & React, I bring both functionality and beauty to web applications.
 -   Successfully completed over 5 custom web projects that blend robust performance with intuitive design.
--   Expert in optimizing performance to ensure smooth and responsive user experiences.
 -   A true UI/UX enthusiast with a knack for creating modern, user-friendly interfaces.
 
 <div align="center">
